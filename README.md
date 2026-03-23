@@ -12,7 +12,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" height="180" style="border-radius:12px;" src="https://media.tenor.com/0y8p4H3g0H0AAAAC/new-game-ahagon-umiko.gif"/>
+<img align="right" height="190" style="border-radius:12px;" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding-girl.gif"/>
 
 - 🎓 BCA Student (2022–2025)  
 - 💻 Passionate about Full Stack Development  
