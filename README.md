@@ -1,72 +1,57 @@
-<!-- 🖤 ANIMATED HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=Ruchita%20Bhosale&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
-</p>
+<!-- HEADER -->
+<h1 align="center">Ruchita Bhosale</h1>
+<h3 align="center">Full Stack Developer | UI/UX Designer</h3>
 
-<!-- 💼 TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;UI%2FUX+Designer;Open+to+Global+Opportunities" />
+  Open to Global Opportunities 🌍
 </p>
 
 ---
 
-## 🖤 About Me
-
-<img align="right" height="170" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+## 👩‍💻 About Me
 
 - 🎓 BCA Student (2022–2025)  
-- 💻 Passionate about building modern & user-friendly applications  
-- 🎨 Strong focus on UI/UX & clean design  
+- 💻 Passionate about building scalable and user-friendly applications  
+- 🎨 Focused on clean UI/UX design  
 - 🌏 Learning Japanese 🇯🇵 & Korean 🇰🇷  
-- 🚀 Looking for global opportunities in tech  
+- 🚀 Actively looking for opportunities in Web Development & Design  
 
 ---
 
-## ⚡ Tech Stack
+## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,php,git,github,vscode" />
-</p>
+**Frontend:**  
+HTML • CSS • JavaScript • React  
+
+**Backend:**  
+Node.js • Express • PHP  
+
+**Database:**  
+MongoDB • MySQL  
+
+**Tools:**  
+Git • GitHub • VS Code  
 
 ---
 
 ## 🌐 Portfolio
 
-<p align="center">
-  <a href="[ruchitavbhosale.github.io/Portfolio/ ](https://ruchitavbhosale.github.io/Portfolio/)">
-    <img src="https://img.shields.io/badge/View%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+🔗 https://ruchitavbhosale.github.io/Portfolio/
 
 ---
 
-## 🤍 Connect With Me
+## 🤝 Connect With Me
 
-<p align="center">
-  <a href="www.linkedin.com/in/ruchita-v-bhosale-099090217">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ruchitavikasbhosale14@gmail.com">
-    <img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="[https://instagram.com/yourprofile](https://www.instagram.com/its_ira.14?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+- LinkedIn: https://www.linkedin.com/in/ruchita-v-bhosale-099090217  
+- Email: ruchitavikasbhosale14@gmail.com  
+- Instagram: https://www.instagram.com/its_ira.14  
 
 ---
 
 ## 📄 Resume
 
-<p align="center">
-  <a href="https://your-resume-link.pdf">
-    <img src="https://img.shields.io/badge/Download%20Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-  </a>
-</p>
+📥 Add your resume link here  
 
 ---
 
-<!-- 🖤 ANIMATED FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=120&section=footer"/>
-</p>         
+⭐ *Focused on building impactful and user-centric digital experiences*
