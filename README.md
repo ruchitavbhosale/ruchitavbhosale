@@ -12,7 +12,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" height="190" style="border-radius:12px;" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding-girl.gif"/>
+<img align="right" height="190" style="border-radius:12px;" src="https://media.tenor.com/LSHKMiRdLggAAAAC/girl-coding.gif"/>
 
 - 🎓 BCA Student (2022–2025)  
 - 💻 Passionate about Full Stack Development  
