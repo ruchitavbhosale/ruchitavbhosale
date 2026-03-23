@@ -19,7 +19,7 @@
 
 <!-- 👩‍💻 AESTHETIC CODING GIRL -->
 <p align="center">
-  <img src="https://media.tenor.com/Ll9QxF2F7V8AAAAC/anime-computer.gif" width="250" style="border-radius:18px;"/>
+  <img src="https://media.tenor.com/fY7QxZ0D1vUAAAAC/anime-study.gif" width="250" style="border-radius:18px;"/>
 </p>
 
 - 🎓 BCA Student (2022–2025)  
