@@ -4,7 +4,6 @@
 </p>
 
 <!-- 👋 INTRO -->
-<h2 align="center">Hi 👋, I'm Ruchita</h2>
 <h4 align="center">💻 Full Stack Developer | 🎨 UI/UX Designer | 🚀 Tech Enthusiast</h4>
 
 <p align="center">
