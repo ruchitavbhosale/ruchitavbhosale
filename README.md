@@ -1,24 +1,24 @@
 <!-- 🖤 PREMIUM ANIMATED HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3a3a3a&height=200&section=header&text=Ruchita%20Bhosale&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3a3a3a&height=220&section=header&text=Ruchita%20Bhosale&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <!-- 💼 TYPING ROLE -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;UI%2FUX+Designer;Building+Modern+Web+Experiences"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=24&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;UI%2FUX+Designer;Building+Modern+Web+Experiences;Open+to+Global+Opportunities"/>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-<img align="right" height="160" src="[https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif](https://share.google/rON3H0Q7WQuRIENo1)"/>
+<img align="right" height="180" style="border-radius:12px;" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 - 🎓 BCA Student (2022–2025)  
-- 💻 Building modern, scalable web applications  
-- 🎨 Focused on clean, user-friendly UI/UX  
+- 💻 Passionate about Full Stack Development  
+- 🎨 Focused on clean & modern UI/UX  
 - 🌏 Learning Japanese 🇯🇵 & Korean 🇰🇷  
-- 🚀 Open to global job opportunities  
+- 🚀 Open to international job opportunities  
 
 ---
 
@@ -68,5 +68,5 @@
 
 <!-- 🖤 CLEAN FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a3a3a,100:000000&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a3a3a,100:000000&height=130&section=footer"/>
 </p>
