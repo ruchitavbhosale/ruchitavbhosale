@@ -12,8 +12,8 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" height="180" style="border-radius:12px;" src="[https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif](https://tenor.com/3Kua.gif)"/>
-<div class="tenor-gif-embed" data-postid="13247664" data-share-method="host" data-aspect-ratio="1.11321" data-width="100%"><a href="https://tenor.com/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664">New Game Ahagon Umiko Programming GIF</a>from <a href="https://tenor.com/search/new+game+ahagon+umiko-gifs">New Game Ahagon Umiko GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" height="180" style="border-radius:12px;" src="https://media.tenor.com/0y8p4H3g0H0AAAAC/new-game-ahagon-umiko.gif"/>
+
 - 🎓 BCA Student (2022–2025)  
 - 💻 Passionate about Full Stack Development  
 - 🎨 Focused on clean & modern UI/UX  
