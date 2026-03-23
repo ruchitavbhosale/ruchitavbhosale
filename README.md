@@ -12,7 +12,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" height="200" style="border-radius:14px;" /><div class="tenor-gif-embed" data-postid="13247664" data-share-method="host" data-aspect-ratio="1.11321" data-width="100%"><a href="https://tenor.com/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664">New Game Ahagon Umiko Programming GIF</a>from <a href="https://tenor.com/search/new+game+ahagon+umiko-gifs">New Game Ahagon Umiko GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" height="200" style="border-radius:14px;" src="https://tenor.com/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664"/>
 
 - 🎓 BCA Student (2022–2025)  
 - 💻 Passionate about Full Stack Development  
