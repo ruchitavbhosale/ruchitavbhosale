@@ -70,6 +70,11 @@
   </a>
 </p>
 
+<!-- 👀 VISITOR COUNTER -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ruchitavbhosale&label=Profile%20Views&color=000000&style=for-the-badge"/>
+</p>
+
 <!-- 🖤 PREMIUM FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c2c2c,100:000000&height=150&section=footer"/>
