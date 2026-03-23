@@ -12,7 +12,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" height="180" style="border-radius:12px;" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="right" height="180" style="border-radius:12px;" src="[https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif](https://tenor.com/3Kua.gif)"/>
 
 - 🎓 BCA Student (2022–2025)  
 - 💻 Passionate about Full Stack Development  
