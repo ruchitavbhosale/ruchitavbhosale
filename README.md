@@ -16,7 +16,7 @@
 ## 🖤 About Me
 
 <p align="center">
-  <img height="220" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"/>
+  <img height="220" src="https://undraw.co/api/illustrations/undraw_programming_re_kg9v.svg"/>
 </p>
 
 <p align="center" style="color:#ccc; max-width:600px;">
