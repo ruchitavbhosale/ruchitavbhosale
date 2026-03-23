@@ -5,12 +5,11 @@
 
 <!-- 💼 DYNAMIC TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=26&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+⚡;UI%2FUX+Designer+🎨;Building+Clean+%26+Modern+Web+Apps;Dreaming+Big+%F0%9F%9A%80;Open+to+Global+Opportunities+🌏"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=26&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+⚡;UI%2FUX+Designer+🎨;Building+Clean+%26+Modern+Web+Apps;Open+to+Global+Opportunities+🌏"/>
 </p>
 
 <!-- 🔥 MINI BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Vibe-Minimal%20%2B%20Aesthetic-111111?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Focus-Frontend%20%2B%20Backend-222222?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Learning-Japan%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20Korea%20%F0%9F%87%B0%F0%9F%87%B7-000000?style=for-the-badge"/>
 </p>
