@@ -1,41 +1,50 @@
 <!-- 🖤 ULTRA PREMIUM HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2c2c2c&height=250&section=header&text=Ruchita%20Bhosale&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2c2c2c&height=240&section=header&text=Ruchita%20Bhosale&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Code.%20Design.%20Create.%20Repeat.&descAlignY=55&descSize=18"/>
 </p>
 
-<!-- ✨ GLASS TITLE -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=28&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+UI%2FUX+Designer;Building+Clean+%26+Modern+Experiences;Creative+Developer+with+Vision;Open+to+Global+Opportunities+🌍" />
-</h2>
-
-<!-- 🔥 AESTHETIC CODING GIF -->
+<!-- ✨ FLOATING GIF (GENZ TOUCH) -->
 <p align="center">
-  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="400" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
+</p>
+
+<!-- 💼 DYNAMIC TYPING -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=26&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+⚡;UI%2FUX+Designer+🎨;Building+Clean+%26+Modern+Web+Apps;Dreaming+Big+%F0%9F%9A%80;Open+to+Global+Opportunities+🌏"/>
+</p>
+
+<!-- 🔥 MINI BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Vibe-Minimal%20%2B%20Aesthetic-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Frontend%20%2B%20Backend-222222?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Learning-Japan%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20Korea%20%F0%9F%87%B0%F0%9F%87%B7-000000?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🖤 About Me
+## 👩‍💻 About Me
 
-<p align="center">
-✨ Passionate Developer blending <b>Code + Creativity</b><br>
-🎓 BCA Student (2022–2025)<br>
-💻 Full Stack Developer (MERN + PHP)<br>
-🎨 UI/UX Designer (Modern & Minimal Aesthetic)<br>
-🌏 Learning Japanese 🇯🇵 & Korean 🇰🇷<br>
-🚀 Dreaming Big → Working Global
-</p>
+<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="160"/>
+
+- 🎓 BCA Student (2022–2025)  
+- 💻 Full Stack Developer in progress  
+- 🎨 Obsessed with clean & aesthetic UI  
+- 🌏 Learning Japanese 🇯🇵 & Korean 🇰🇷  
+- 🚀 Looking for global opportunities  
+
+<br clear="right"/>
 
 ---
 
-## ⚡ Tech Universe
+## ⚡ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,php,git,github,vscode&theme=dark" />
 </p>
 
+<!-- 💡 EXTRA VISUAL LINE -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruchitavbhosale&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruchitavbhosale&bg_color=000000&color=ffffff&line=aaaaaa&point=ffffff&hide_border=true"/>
 </p>
 
 ---
@@ -44,20 +53,20 @@
 
 <p align="center">
   <a href="https://ruchitavbhosale.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/✨%20Explore%20My%20Work-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/✨%20View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ruchita-v-bhosale-099090217">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ruchitavikasbhosale14@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/its_ira.14">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -70,15 +79,8 @@
 
 <p align="center">
   <a href="YOUR_RESUME_LINK_HERE">
-    <img src="https://img.shields.io/badge/📄%20Download%20Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+    <img src="https://img.shields.io/badge/⬇️%20Download%20Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
-</p>
-
----
-
-<!-- 🔥 VISITOR COUNTER -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ruchitavbhosale&label=Profile%20Views&color=000000&style=for-the-badge" />
 </p>
 
 ---
