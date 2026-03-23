@@ -17,8 +17,9 @@
 
 ## 👩‍💻 About Me
 
-<p align="right">
-  <img src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" width="220"/>
+<!-- 👩‍💻 AESTHETIC CODING GIRL -->
+<p align="center">
+  <img src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" width="230" style="border-radius:15px;"/>
 </p>
 
 - 🎓 BCA Student (2022–2025)  
