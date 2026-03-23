@@ -43,7 +43,7 @@
 ## 🤍 Connect With Me
 
 <p align="center">
-  <a href="linkedin.com/in/ruchita-v-bhosale-099090217">
+  <a href="www.linkedin.com/in/ruchita-v-bhosale-099090217">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ruchitavikasbhosale14@gmail.com">
