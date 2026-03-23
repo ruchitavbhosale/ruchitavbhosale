@@ -1,54 +1,40 @@
-<!-- 🖤 HEADER -->
+<!-- 🖤 ULTRA PREMIUM HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:2b2b2b&height=200&section=header&text=Ruchita%20Bhosale&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2c2c2c&height=250&section=header&text=Ruchita%20Bhosale&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<!-- 💼 ROLE -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=24&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;UI%2FUX+Designer;Building+Modern+Web+Experiences;Open+to+Global+Opportunities+🌍"/>
-</p>
+<!-- ✨ GLASS TITLE -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=28&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+UI%2FUX+Designer;Building+Clean+%26+Modern+Experiences;Creative+Developer+with+Vision;Open+to+Global+Opportunities+🌍" />
+</h2>
 
-<!-- 🎯 SHORT TAGLINE -->
+<!-- 🔥 AESTHETIC CODING GIF -->
 <p align="center">
-  <b>design. code. experience.</b>
-</p>
-
-<!-- 🎥 HERO GIF -->
-<p align="center">
-  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="420"/>
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="400" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-
-<div align="center">
-
-| 💡 | Details |
-|----|--------|
-| 🎓 | BCA Student (2022–2025) |
-| 💻 | Full Stack Developer (MERN + PHP) |
-| 🎨 | UI/UX Designer (Modern + Minimal) |
-| 🌏 | Learning Japanese 🇯🇵 & Korean 🇰🇷 |
-| 🚀 | Open to Global Opportunities |
-
-</div>
-
----
-
-## ⚙️ Tech Stack
+## 🖤 About Me
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,php,git,github,vscode&theme=dark"/>
+✨ Passionate Developer blending <b>Code + Creativity</b><br>
+🎓 BCA Student (2022–2025)<br>
+💻 Full Stack Developer (MERN + PHP)<br>
+🎨 UI/UX Designer (Modern & Minimal Aesthetic)<br>
+🌏 Learning Japanese 🇯🇵 & Korean 🇰🇷<br>
+🚀 Dreaming Big → Working Global
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ Tech Universe
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruchitavbhosale&show_icons=true&theme=dark&hide_border=true"/>
-  <br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,php,git,github,vscode&theme=dark" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruchitavbhosale&theme=dark&hide_border=true"/>
 </p>
 
@@ -58,20 +44,20 @@
 
 <p align="center">
   <a href="https://ruchitavbhosale.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/✨%20View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/✨%20Explore%20My%20Work-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🤝 Connect
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ruchita-v-bhosale-099090217">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ruchitavikasbhosale14@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/its_ira.14">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -90,14 +76,14 @@
 
 ---
 
-<!-- 👀 VISITOR COUNTER -->
+<!-- 🔥 VISITOR COUNTER -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ruchitavbhosale&label=Profile%20Views&color=000000&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=ruchitavbhosale&label=Profile%20Views&color=000000&style=for-the-badge" />
 </p>
 
 ---
 
-<!-- 🖤 FOOTER -->
+<!-- 🖤 PREMIUM FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2b2b2b,100:000000&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c2c2c,100:000000&height=150&section=footer"/>
 </p>
