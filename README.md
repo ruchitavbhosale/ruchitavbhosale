@@ -33,7 +33,7 @@
 ## 🌐 Portfolio
 
 <p align="center">
-  <a href="https://your-portfolio-link.com">
+  <a href="ruchitavbhosale.github.io/Portfolio/ ">
     <img src="https://img.shields.io/badge/View%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
@@ -43,13 +43,13 @@
 ## 🤍 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile">
+  <a href="linkedin.com/in/ruchita-v-bhosale-099090217">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ruchitavikasbhosale14@gmail.com">
     <img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/yourprofile">
+  <a href="[https://instagram.com/yourprofile](https://www.instagram.com/its_ira.14?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
