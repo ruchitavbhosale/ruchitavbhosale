@@ -69,4 +69,4 @@
 <!-- 🖤 ANIMATED FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=120&section=footer"/>
-</p>               if if i want the girl to code or infront of laptop or pc ,            also the animation neede to be more nice also make the titral more clraer and visibal nicely
+</p>         
