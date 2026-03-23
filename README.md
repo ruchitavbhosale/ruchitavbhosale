@@ -12,8 +12,6 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" height="200" style="border-radius:14px;" src="https://tenor.com/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664"/>
-
 - 🎓 BCA Student (2022–2025)  
 - 💻 Passionate about Full Stack Development  
 - 🎨 Focused on clean & modern UI/UX  
