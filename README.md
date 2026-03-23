@@ -12,7 +12,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" height="160" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="right" height="160" src="[https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif](https://share.google/rON3H0Q7WQuRIENo1)"/>
 
 - 🎓 BCA Student (2022–2025)  
 - 💻 Building modern, scalable web applications  
@@ -26,16 +26,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,php,git,github,vscode&theme=dark" />
-</p>
-
----
-
-## 🚀 Featured Work
-
-<p align="center">
-  ✨ SeasonScape – Travel Planning & Booking Platform  
-  <br/>
-  ✨ Smart Admissions – Student Admission System  
 </p>
 
 ---
