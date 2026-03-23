@@ -72,7 +72,7 @@
 
 <!-- 👀 VISITOR COUNTER -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ruchitavbhosale&label=Profile%20Views&color=000000&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=ruchitavbhosale&label=stalkers&color=000000&style=flat"/>
 </p>
 
 <!-- 🖤 PREMIUM FOOTER -->
