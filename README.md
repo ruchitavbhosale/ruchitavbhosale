@@ -33,7 +33,7 @@
 ## 🌐 Portfolio
 
 <p align="center">
-  <a href="ruchitavbhosale.github.io/Portfolio/ ">
+  <a href="[ruchitavbhosale.github.io/Portfolio/ ](https://ruchitavbhosale.github.io/Portfolio/)">
     <img src="https://img.shields.io/badge/View%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
