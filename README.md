@@ -15,7 +15,7 @@
 
 ---
 
-- 👩‍💻 About Me
+## 👩‍💻 About Me
 
 - 🎓 BCA Student (2022–2025)  
 - 💻 Full Stack Developer in progress  
@@ -25,7 +25,7 @@
 
 ---
 
-- ⚡ Tech Stack
+## ⚡ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,php,git,github,vscode&theme=dark" />
@@ -33,7 +33,7 @@
 
 ---
 
-- 🌐 Portfolio
+## 🌐 Portfolio
 
 <p align="center">
   <a href="https://ruchitavbhosale.github.io/Portfolio/">
@@ -43,7 +43,7 @@
 
 ---
 
-- 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ruchita-v-bhosale-099090217" target="_blank">
@@ -59,7 +59,7 @@
 
 ---
 
-- 📄 Resume
+## 📄 Resume
 
 <p align="center">
   <a href="YOUR_RESUME_LINK_HERE">
