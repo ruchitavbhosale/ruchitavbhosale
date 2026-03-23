@@ -19,7 +19,7 @@
 
 <!-- 👩‍💻 AESTHETIC CODING GIRL -->
 <p align="center">
-  <img src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" width="230" style="border-radius:15px;"/>
+  <img src="https://media.tenor.com/3bTxZ7wV0d8AAAAC/lofi-girl.gif" width="260" style="border-radius:18px;"/>
 </p>
 
 - 🎓 BCA Student (2022–2025)  
