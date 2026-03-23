@@ -46,8 +46,8 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ruchita-v-bhosale-099090217">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/ruchita-v-bhosale-099090217" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="40"/>
   </a>
   <a href="mailto:ruchitavikasbhosale14@gmail.com">
     <img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white"/>
