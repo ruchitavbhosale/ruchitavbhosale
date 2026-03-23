@@ -4,7 +4,6 @@
 </p>
 
 <!-- 👋 INTRO -->
-<h2 align="center">Hi 👋, I'm Ruchita</h2>
 <h4 align="center">💻 Full Stack Developer | 🎨 UI/UX Designer | 🚀 Tech Enthusiast</h4>
 
 <p align="center">
@@ -19,7 +18,7 @@
 - 🎓 BCA Student (2022–2025)  
 - 💻 MERN | PHP | Java Developer  
 - 🎨 Love designing clean & animated UI  
-- 🌏 Dream: Work in Japan 🇯🇵 / Korea 🇰🇷  
+- Learing Japanese 🇯🇵 / Koreaean 🇰🇷  
 - ⚡ Focused on real-world projects & user experience  
 
 ---
@@ -56,23 +55,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&border_radius=10" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&border_radius=10" height="150"/>
-</p>
-
----
-
-## 🌸 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -82,14 +64,6 @@
   <a href="mailto:ruchitavikasbhosale14@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail" />
   </a>
-</p>
-
----
-
-## 💫 Quote
-
-<p align="center">
-  <i>"Design is intelligence made visible. Code makes it alive."</i>
 </p>
 
 ---
