@@ -1,69 +1,53 @@
-<!-- 🖤 HEADER -->
+<!-- 🖤 ANIMATED HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2c2c2c&height=200&section=header&text=Ruchita%20Bhosale&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=Ruchita%20Bhosale&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<!-- 💼 TITLE -->
-<h2 align="center">Full Stack Developer • UI/UX Designer</h2>
-
-<!-- ✨ TYPING -->
+<!-- 💼 TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=CCCCCC&size=24&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Apps;Designing+Clean+User+Experiences;Open+to+Global+Opportunities+🌍" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;UI%2FUX+Designer;Open+to+Global+Opportunities" />
 </p>
 
 ---
 
-<!-- 🖤 ABOUT ME WITH SIDE GIF -->
-<table>
-<tr>
-<td width="55%">
+## 🖤 About Me
 
-### 🖤 About Me
+<img align="right" height="170" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-🎓 BCA Student (2022–2025)  
-💻 Full Stack Developer (MERN + PHP)  
-🎨 UI/UX focused — clean & modern design  
-🌏 Learning Japanese 🇯🇵 & Korean 🇰🇷  
-🚀 Open to international opportunities  
-
-</td>
-
-<td width="45%" align="center">
-
-<img src="https://undraw.co/api/illustrations/undraw_programming_re_kg9v.svg" width="100%" />
-
-</td>
-</tr>
-</table>
+- 🎓 BCA Student (2022–2025)  
+- 💻 Passionate about building modern & user-friendly applications  
+- 🎨 Strong focus on UI/UX & clean design  
+- 🌏 Learning Japanese 🇯🇵 & Korean 🇰🇷  
+- 🚀 Looking for global opportunities in tech  
 
 ---
 
-### ⚡ Tech Stack
+## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,php,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,php,git,github,vscode" />
 </p>
 
 ---
 
-### 🌐 Portfolio
+## 🌐 Portfolio
 
 <p align="center">
   <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🤍 Connect
+## 🤍 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ruchitavikasbhosale14@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://instagram.com/yourprofile">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -72,7 +56,7 @@
 
 ---
 
-### 📄 Resume
+## 📄 Resume
 
 <p align="center">
   <a href="https://your-resume-link.pdf">
@@ -82,7 +66,7 @@
 
 ---
 
-<!-- 🖤 FOOTER -->
+<!-- 🖤 ANIMATED FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c2c2c,100:000000&height=120&section=footer"/>
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=120&section=footer"/>
+</p>               if if i want the girl to code or infront of laptop or pc ,            also the animation neede to be more nice also make the titral more clraer and visibal nicely
