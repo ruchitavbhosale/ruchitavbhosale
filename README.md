@@ -10,7 +10,7 @@
 <!-- 🔥 MINI BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Frontend%20%2B%20Backend-222222?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Learning-Japan%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20Korea%20%F0%9F%87%B0%F0%9F%87%B7-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Learning-Japanese%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20Korean%20%F0%9F%87%B0%F0%9F%87%B7-000000?style=for-the-badge"/>
 </p>
 
 ---
