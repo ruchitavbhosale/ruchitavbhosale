@@ -20,8 +20,8 @@
 <!-- 👩‍💻 AESTHETIC CODING GIRL -->
 
 - 🎓 BCA Student (2022–2025)  
-- 💻 Full Stack Developer
-- 🎨 Obsessed with clean & aesthetic UI  
+- 💻 Full Stack Developer (MERN)
+- 🎨 UI/UX Designer
 - 🌏 Learning Japanese 🇯🇵 & Korean 🇰🇷  
 - 🚀 Looking for global opportunities  
 
