@@ -17,6 +17,10 @@
 
 ## 👩‍💻 About Me
 
+<p align="right">
+  <img src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" width="220"/>
+</p>
+
 - 🎓 BCA Student (2022–2025)  
 - 💻 Full Stack Developer in progress  
 - 🎨 Obsessed with clean & aesthetic UI  
