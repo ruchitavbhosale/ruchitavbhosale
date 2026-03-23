@@ -62,7 +62,7 @@
 ## 📄 Resume
 
 <p align="center">
-  <a href="YOUR_RESUME_LINK_HERE">
+  <a href="Ruchita V Bhosale.jpeg">
     <img src="https://img.shields.io/badge/⬇️%20Download%20Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
