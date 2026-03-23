@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **ruchitavbhosale/ruchitavbhosale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,8 +25,7 @@ Here are some ideas to get you started:
 ## 🚀 About Me
 - 🎓 Final Year BCA Student  
 - 💻 Interested in Full Stack Development & UI/UX  
-- 🌱 Currently learning MERN Stack & Android Development  
-- 🌏 Dream: Work in Japan 🇯🇵 / South Korea 🇰🇷  
+- 🌱 Currently learning MERN Stack & Android Development   
 - 🎨 Love creating modern, animated UI designs  
 
 ---
