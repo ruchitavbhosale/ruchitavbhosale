@@ -5,9 +5,8 @@
 
 <!-- 💼 DYNAMIC TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=26&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+⚡;UI%2FUX+Designer+🎨;Building+Clean+%26+Modern+Web+Apps;Open+to+Global+Opportunities+🌏"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=555555&size=26&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+⚡;UI%2FUX+Designer+🎨;Building+Clean+%26+Modern+Web+Apps;Open+to+Global+Opportunities+🌏"/>
 </p>
-
 <!-- 🔥 MINI BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Frontend%20%2B%20Backend-222222?style=for-the-badge"/>
