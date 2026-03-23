@@ -24,8 +24,6 @@
 - 🌏 Learning Japanese 🇯🇵 & Korean 🇰🇷  
 - 🚀 Looking for global opportunities  
 
-<br clear="right"/>
-
 ---
 
 ## ⚡ Tech Stack
