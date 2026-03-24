@@ -18,9 +18,7 @@
 ## 👩‍💻 About Me
 <!-- 👩‍💻 AESTHETIC CODING GIRL -->
 
-<table>
-  <tr>
-    <td>
+<img align="right" src="8351153.gif" width="350"/>
 
 ### 👩‍💻 About Me
 
@@ -30,14 +28,7 @@
 - 🌏 Learning Japanese 🇯🇵 & Korean 🇰🇷  
 - 🚀 Looking for global opportunities  
 
-    </td>
-    <td align="right">
-      <img src="8351153.gif" width="350"/>
-    </td>
-  </tr>
-</table>
-
----
+<br clear="right"/>
 
 ---
 ## ⚡ Tech Stack
