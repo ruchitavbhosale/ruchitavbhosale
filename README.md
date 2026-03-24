@@ -27,6 +27,7 @@
 - 🚀 **Looking for global opportunities**  
 
 <br clear="right"/>
+
 ---
 
 ## ⚡ Tech Stack
