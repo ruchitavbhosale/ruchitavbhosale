@@ -17,7 +17,7 @@
 
 <!-- 👩‍💻 AESTHETIC CODING GIRL -->
 
-##👩‍💻 About Me
+## 👩‍💻 About Me
 
 <img align="right" src="8351153.gif" width="320"/>
 
