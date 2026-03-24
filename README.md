@@ -65,7 +65,7 @@
 
 <p align="center">
   <a href="Ruchita V Bhosale.jpeg">
-    <img src="https://img.shields.io/badge/⬇️%20Download%20Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+    <img src="https://img.shields.io/badge/⬇️%20%20Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
 
