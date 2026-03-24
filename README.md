@@ -72,7 +72,7 @@
 <p></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ruchitavbhosale&label=👀%20Profile%20Views&color=ff69b4&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=ruchitavbhosale&label=Profile%20Views&color=0e75b6&style=flat" alt="ruchitavbhosale" />
 </p>
 
 <!-- 🖤 PREMIUM FOOTER -->
