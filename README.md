@@ -22,11 +22,14 @@
 <img align="right" src="8351153.gif" width="320"/>
 
 <ul>
-  <li>🎓 BCA Student (2022–2025)</li>
-  <li>💻 Full Stack Developer (MERN)</li>
-  <li>🎨 UI/UX Designer</li>
-  <li>🌏 Learning Japanese 🇯🇵 & Korean 🇰🇷</li>
-  <li>🚀 Looking for global opportunities</li>
+  <li>BCA Student (2022–2025)</li>
+  <li>Full Stack Developer (MERN)</li>
+  <li>UI/UX Designer</li>
+  <li>Proficient in React, Java, PHP, and MySQL</li>
+  <li>Familiar with REST APIs, JWT Authentication, and Database Design</li>
+  <li>Experience building real-world web applications</li>
+  <li>Learning Japanese and Korean</li>
+  <li>Open to global career opportunities</li>
 </ul>
 
 <br clear="right"/>
