@@ -16,18 +16,21 @@
 ---
 
 <!-- 👩‍💻 AESTHETIC CODING GIRL -->
-<img align="right" src="8351153.gif" width="300" style="margin-left:25px; border-radius:10px;"/>
+<!-- 👩‍💻 AESTHETIC CODING GIRL -->
 
-## 👩‍💻 About Me
+<h3>👩‍💻 About Me</h3>
 
-- 🎓 **BCA Student** (2022–2025)  
-- 💻 **Full Stack Developer (MERN)**  
-- 🎨 **UI/UX Designer**  
-- 🌏 **Learning Japanese 🇯🇵 & Korean 🇰🇷**  
-- 🚀 **Looking for global opportunities**  
+<img align="right" src="8351153.gif" width="320"/>
+
+<ul>
+  <li>🎓 BCA Student (2022–2025)</li>
+  <li>💻 Full Stack Developer (MERN)</li>
+  <li>🎨 UI/UX Designer</li>
+  <li>🌏 Learning Japanese 🇯🇵 & Korean 🇰🇷</li>
+  <li>🚀 Looking for global opportunities</li>
+</ul>
 
 <br clear="right"/>
-
 ---
 
 ## ⚡ Tech Stack
