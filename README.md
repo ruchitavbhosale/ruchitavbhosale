@@ -31,6 +31,7 @@
   <li>Open to global career opportunities</li>
 </ul>
 <br clear="right"/>
+
 ---
 
 ## ⚡ Tech Stack
