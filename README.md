@@ -16,21 +16,18 @@
 ---
 
 ## 👩‍💻 About Me
-
 <!-- 👩‍💻 AESTHETIC CODING GIRL -->
-
 <p align="right">
-  <img src="8351153.gif" width="400"/>
+  <img src="8351153.gif" width="350" alt="coding girl"/>
 </p>
 
-- 🎓 BCA Student (2022–2025)  
-- 💻 Full Stack Developer (MERN)
-- 🎨 UI/UX Designer
-- 🌏 Learning Japanese 🇯🇵 & Korean 🇰🇷  
-- 🚀 Looking for global opportunities  
+🎓 **BCA Student** (2022–2025)  
+💻 **Full Stack Developer (MERN)**  
+🎨 **UI/UX Designer**  
+🌏 Learning **Japanese 🇯🇵 & Korean 🇰🇷**  
+🚀 **Open to global opportunities**
 
 ---
-
 ## ⚡ Tech Stack
 
 <p align="center">
