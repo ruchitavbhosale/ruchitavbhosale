@@ -20,7 +20,7 @@
 <!-- 👩‍💻 AESTHETIC CODING GIRL -->
 
 <p align="right">
-  <img src="new-game-ahagon-umiko-programming.gif" width="400"/>
+  <img src="8351153.gif" width="400"/>
 </p>
 
 - 🎓 BCA Student (2022–2025)  
