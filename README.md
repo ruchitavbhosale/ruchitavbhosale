@@ -27,13 +27,10 @@
   <li>UI/UX Designer</li>
   <li>Proficient in React, Java, PHP, and MySQL</li>
   <li>Familiar with REST APIs, JWT Authentication, and Database Design</li>
-  <li>Experience building real-world web applications</li>
   <li>Learning Japanese and Korean</li>
   <li>Open to global career opportunities</li>
 </ul>
-
 <br clear="right"/>
-
 ---
 
 ## ⚡ Tech Stack
