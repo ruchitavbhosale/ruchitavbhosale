@@ -19,6 +19,10 @@
 
 <!-- 👩‍💻 AESTHETIC CODING GIRL -->
 
+<p align="right">
+  <img src="YOUR_GITHUB_GIF_LINK" width="400"/>
+</p>
+
 - 🎓 BCA Student (2022–2025)  
 - 💻 Full Stack Developer (MERN)
 - 🎨 UI/UX Designer
