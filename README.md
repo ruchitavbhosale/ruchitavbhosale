@@ -1,131 +1,89 @@
-<!-- 🌊 Animated Header -->
+<!-- 🖤 ULTRA PREMIUM HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:2c2c2c&height=250&section=header&text=Ruchita%20V%20Bhosale&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2c2c2c&height=240&section=header&text=Ruchita%20Bhosale&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Code.%20Design.%20Create.%20Repeat.&descAlignY=55&descSize=18"/>
 </p>
 
-<!-- ✨ Typing Animation -->
+<!-- 💼 DYNAMIC TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=ffffff&size=24&center=true&vCenter=true&width=800&lines=Web+Developer;Full+Stack+Developer;UI%2FUX+Designer;Creative+Frontend+Engineer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=555555&size=26&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+⚡;UI%2FUX+Designer+🎨;Building+Clean+%26+Modern+Web+Apps;Open+to+Global+Opportunities+🌏"/>
+</p>
+<!-- 🔥 MINI BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Frontend%20%2B%20Backend-222222?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Learning-Japanese%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20Korean%20%F0%9F%87%B0%F0%9F%87%B7-000000?style=for-the-badge"/>
 </p>
 
 ---
+
+<!-- 👩‍💻 AESTHETIC CODING GIRL -->
 
 ## 👩‍💻 About Me
 
-🎓 Final Year **BCA Student (2022–2025)**  
-💻 Passionate **Full Stack Developer (MERN + PHP/MySQL + Java)**  
-🎨 Creative **UI/UX Designer** focused on modern interfaces  
-🚀 Love building **scalable + user-friendly applications**  
+<img align="right" src="8351153.gif" width="320"/>
 
-📍 Pune, India  
-📧 ruchitavikasbhosale14@gmail.com  
-
----
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/ruchitavbhosale"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
-  <a href="https://www.linkedin.com/in/ruchita-v-bhosale-099090217"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://ruchitavbhosale.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/></a>
-</p>
+<ul>
+  <li>BCA Student (2022–2025)</li>
+  <li>Full Stack Developer (MERN)</li>
+  <li>UI/UX Designer</li>
+  <li>Proficient in React, Java, PHP, and MySQL</li>
+  <li>Familiar with REST APIs, JWT Authentication, and Database Design</li>
+  <li>Learning Japanese and Korean</li>
+  <li>Open to global career opportunities</li>
+</ul>
+<br clear="right"/>
 
 ---
 
 ## ⚡ Tech Stack
 
-### 💻 Languages
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
-
-### 🌐 Web & Frameworks
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
-
-### 🎨 Design & Tools
-![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
-![Adobe XD](https://img.shields.io/badge/AdobeXD-000?style=for-the-badge&logo=adobexd)
-![Canva](https://img.shields.io/badge/Canva-000?style=for-the-badge&logo=canva)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VSCode-000?style=for-the-badge&logo=visualstudiocode)
-
----
-
-## 🚀 Projects
-
-### 🛒 KShop – E-commerce Platform
-🔹 MERN Stack (React, Node.js, MongoDB)  
-🔹 JWT Authentication & Secure APIs  
-🔹 Shopping Cart + Checkout System  
-🔹 Responsive UI  
-
----
-
-### 🌍 SeasonScape – Travel Booking System
-🔹 PHP + MySQL + Cashfree Payment  
-🔹 Online / Office / Home Visit Booking  
-🔹 Payment Integration  
-🔹 Feedback & Rating System  
-
----
-
-### 💰 BudgetBuddy – Expense Tracker
-🔹 Core Java + MySQL  
-🔹 Income & Expense Tracking  
-🔹 Auto Balance Calculation  
-🔹 File Handling  
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruchitavbhosale&show_icons=true&theme=dark&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruchitavbhosale&theme=dark&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,php,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-## 🧠 Core Skills
-
-✔ REST API Development  
-✔ JWT Authentication  
-✔ CRUD Operations  
-✔ Database Design  
-✔ MVC Architecture  
-✔ Responsive UI Design  
-
----
-
-## 🌍 Languages
-
-- English – Fluent  
-- Hindi, Marathi – Native  
-- Japanese, Korean – Intermediate  
-
----
-
-## ✨ Fun Section (Auto Animation)
+## 🌐 Portfolio
 
 <p align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+  <a href="https://ruchitavbhosale.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/✨%20View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 💡 Quote
+## 🤝 Connect With Me
 
-> "Design is intelligence made visible. Code is creativity made powerful."
+<p align="center">
+  <a href="https://www.linkedin.com/in/ruchita-v-bhosale-099090217" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  <a href="mailto:ruchitavikasbhosale14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/its_ira.14">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-<!-- 🔥 Footer -->
+## 📄 Resume
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c2c2c,100:000000&height=120&section=footer"/>
+  <a href="Ruchita V Bhosale.jpeg">
+    <img src="https://img.shields.io/badge/⬇️%20Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</p>
+
+<p></p>
+
+<!-- 👀 VISITOR COUNTER -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ruchitavbhosale&label=Profile%20Views&color=0e75b6&style=flat" alt="ruchitavbhosale" />
+</p>
+
+<!-- 🖤 PREMIUM FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c2c2c,100:000000&height=150&section=footer"/>
 </p>
