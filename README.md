@@ -1,10 +1,6 @@
 # 💫 Welcome to my space!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&customColorList=10,20,30&height=180&section=header&text=RUCHITA%20V%20BHOSALE&fontSize=50&animation=twinkling" alt="Header Banner" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=58a6ff&center=true&vCenter=true&width=500&lines=MCA+Student;Full+Stack+Developer;HR+Recruiter" alt="Typing SVG" />
 </p>
 
