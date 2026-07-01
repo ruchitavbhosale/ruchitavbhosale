@@ -8,15 +8,29 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=58a6ff&center=true&vCenter=true&width=500&lines=MCA+Student;Full+Stack+Developer;HR+Recruiter" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RuchitaBhosale&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile Views" />
+</p>
+
 ---
 
 ### 🟪 About Me
 
-I am an ambitious **MCA Student** and tech enthusiast with a multi-disciplinary background spanning software systems, full-stack application logic, corporate data engineering, and talent recruitment workflows[cite: 1]. 
+I am an ambitious **MCA Student** and tech enthusiast with a multi-disciplinary background spanning software systems, full-stack application logic, corporate data engineering, and talent recruitment workflows. 
 
-- 🎓 Pursuing my professional specialization path at **MIT World Peace University, Pune**[cite: 1].
-- 💡 Passionate about turning modern development concepts into scalable digital products[cite: 1].
-- 🎯 I blend clean, structural interfaces with optimized user experiences[cite: 1].
+- 🎓 Pursuing my professional specialization path at **MIT World Peace University, Pune**.
+- 💡 Passionate about turning modern development concepts into scalable digital products.
+- 🎯 I blend clean, structural interfaces with optimized user experiences.
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=RuchitaBhosale&theme=dracula&column=7&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ---
 
@@ -59,12 +73,12 @@ I am an ambitious **MCA Student** and tech enthusiast with a multi-disciplinary 
 
 ```atms
 ▼ 2025 - Full Stack Developer Intern | Skillected
-  • Engineered cleanly optimized responsive pages inside React.js framework environments[cite: 1].
-  • Built node structural server integrations and handled database deployments[cite: 1].
+  • Engineered cleanly optimized responsive pages inside React.js framework environments.
+  • Built node structural server integrations and handled database deployments.
 
 ▼ 2026 - Associate Executive Intern | MDIndia Healthcare Services
-  • Analyzed intricate healthcare operations datasets using predictive Excel logic[cite: 1].
-  • Managed secure record systems, data verification protocols, and strategic team reports[cite: 1].
+  • Analyzed intricate healthcare operations datasets using predictive Excel logic.
+  • Managed secure record systems, data verification protocols, and strategic team reports.
 
 ▼ 2026 - Executive Intern | Textualizes
-  • Supported key business logistics, continuous data tracking, and dynamic cross-team workflows[cite: 1].
+  • Supported key business logistics, continuous data tracking, and dynamic cross-team workflows.
