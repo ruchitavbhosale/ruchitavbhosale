@@ -1,110 +1,337 @@
-<div align="center">
-  <h2>Namaste 🙏 I'm Ruchita V Bhosale</h2>
-  <hr />
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Profile README - Ruchita V Bhosale</title>
+    <style>
+        /* Modern Dark Theme Variables */
+        :root {
+            --bg-primary: #0d1117;
+            --bg-secondary: #161b22;
+            --border-color: #30363d;
+            --text-primary: #c9d1d9;
+            --text-secondary: #8b949e;
+            --accent-purple: #8a2be2;
+            --accent-blue: #58a6ff;
+            --accent-green: #3fb950;
+            --shadow-glow: rgba(138, 43, 226, 0.2);
+        }
 
-👋 I am a highly motivated Master of Computer Applications (MCA) student and BCA graduate with hands-on experience in full-stack web development, HR recruitment, data analysis, and digital marketing. My academic and professional journey is focused on building a rock-solid foundation in modern web technologies, optimizing workflows, and implementing creative UI/UX strategies. I aim to leverage my diverse skill set to solve complex problems and build scalable, user-centric applications[cite: 1].
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ruchitavbhosale&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/stars/ruchitavbhosale?style=flat-square&color=red" alt="Stars" />
-  <img src="https://img.shields.io/github/followers/ruchitavbhosale?style=flat-square&color=blue" alt="Followers" />
-</div>
+        body {
+            background-color: var(--bg-primary);
+            color: var(--text-primary);
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+        }
 
----
+        /* Container Layout */
+        .readme-container {
+            width: 100%;
+            max-width: 850px;
+            background-color: var(--bg-primary);
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            padding: 40px;
+            box-shadow: 0 8px 24px rgba(0,0,0,0.5);
+            animation: fadeIn 1s ease-out;
+        }
 
-### 💫 About Me
+        /* Banner & Header */
+        .banner {
+            width: 100%;
+            height: 180px;
+            border-radius: 6px;
+            background: linear-gradient(135deg, #1f1f3a 0%, #0d1117 100%);
+            border: 1px solid var(--border-color);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            overflow: hidden;
+            margin-bottom: 30px;
+        }
 
-<table>
-  <tr>
-    <td>
-      <p>🚀 <b>I am currently working on developing my programming and engineering skills.</b></p>
-      <p>💻 Experienced in building web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js), PHP, and MySQL[cite: 1].</p>
-      <p>🎓 Currently pursuing an MCA degree at MIT World Peace University, Pune[cite: 1].</p>
-      <p>🔍 Acquired strong foundations in core concepts like RESTful APIs, JWT Authentication, and MVC Architecture[cite: 1].</p>
-      <p>💡 Skilled in HR operations, resume screening, and data record management[cite: 1].</p>
-      <p>🎨 Passionate about responsive UI/UX design with tools like Figma and Canva[cite: 1].</p>
-      <p>🌟 Dedicated to clean coding practices, debugging, and continuous adaptation[cite: 1].</p>
-    </td>
-    <td width="35%" align="center">
-      <img src="https://raw.githubusercontent.com/MayraVargas/MayraVargas/master/assets/developer.gif" width="100%" alt="Developer Animation" />
-    </td>
-  </tr>
-</table>
+        .banner::before {
+            content: '';
+            position: absolute;
+            width: 200%;
+            height: 200%;
+            background: linear-gradient(45deg, transparent, rgba(138, 43, 226, 0.1), transparent);
+            transform: rotate(45deg);
+            animation: streaming 6s linear infinite;
+        }
 
-#### 🤝 Connect me:
+        .banner-text {
+            font-size: 2.2rem;
+            font-weight: 700;
+            letter-spacing: 2px;
+            background: linear-gradient(45deg, #58a6ff, #8a2be2, #ff79c6);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            z-index: 1;
+            text-align: center;
+        }
 
-<p align="left">
-  <a href="mailto:ruchitavikasbhosale14@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/ruchita-v-bhosale-099090217" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
-  </a>&nbsp;
-  <a href="https://ruchitavbhosale.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" height="35" />
-  </a>
-</p>
+        /* Section Headings with Purple Marker */
+        .section-title {
+            font-size: 1.3rem;
+            font-weight: 600;
+            margin-top: 35px;
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 8px;
+        }
 
----
+        .section-title::before {
+            content: "█";
+            color: var(--accent-purple);
+            margin-right: 10px;
+            font-size: 1.1rem;
+            text-shadow: 0 0 8px var(--accent-purple);
+        }
 
-### ⏳ Github Status
+        /* Content Blocks */
+        p {
+            color: var(--text-primary);
+            font-size: 0.95rem;
+            margin-bottom: 12px;
+        }
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ruchitavbhosale&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruchitavbhosale&layout=compact&theme=dark" />
-</div>
+        .highlight {
+            color: var(--accent-blue);
+            font-weight: 500;
+        }
 
----
+        /* Badge Grids */
+        .badge-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-top: 15px;
+        }
 
-### 🗺️ Languages & tools I Have placed My Hands On
+        .badge {
+            background-color: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 20px;
+            padding: 6px 14px;
+            font-size: 0.85rem;
+            font-weight: 500;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            transition: all 0.3s ease;
+            cursor: default;
+        }
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,php,c,cpp,java,figma,xd,git,vscode&perline=8" alt="My Skills Grid" />
-</p>
+        .badge:hover {
+            transform: translateY(-3px);
+            border-color: var(--accent-purple);
+            box-shadow: 0 4px 12px var(--shadow-glow);
+            color: #ffffff;
+        }
 
----
+        /* Experience Timeline Layout */
+        .timeline {
+            margin-top: 15px;
+            border-left: 2px solid var(--border-color);
+            padding-left: 20px;
+            position: relative;
+        }
 
-### ⭐ Best Repositories
+        .timeline-item {
+            margin-bottom: 25px;
+            position: relative;
+            animation: slideUp 1s ease-out;
+        }
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" bgcolor="#0d1117">
-        <h4>🌐 Full-Stack-Web-Development</h4>
-        <p>Responsive applications featuring React.js, Node.js backend integrations, and modern state architectures[cite: 1].</p>
-        <p>🟡 JavaScript</p>
-      </td>
-      <td width="50%" bgcolor="#0d1117">
-        <h4>🎨 Portfolio-Website</h4>
-        <p>A professional digital exhibition showcasing my technical design capabilities, UI components, and milestones[cite: 1].</p>
-        <p>🔵 HTML / CSS</p>
-      </td>
-    </tr>
-  </table>
-</div>
+        .timeline-item::before {
+            content: '';
+            position: absolute;
+            left: -27px;
+            top: 6px;
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            background-color: var(--bg-primary);
+            border: 2px solid var(--accent-blue);
+            transition: background-color 0.3s;
+        }
 
----
+        .timeline-item:hover::before {
+            background-color: var(--accent-purple);
+            border-color: var(--accent-purple);
+        }
 
-### 📊 Tech Stack:
+        .job-title {
+            font-weight: 600;
+            font-size: 1rem;
+            color: #ffffff;
+        }
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React.js-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
-</p>
+        .company-date {
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            margin-bottom: 6px;
+        }
 
----
+        .job-desc {
+            font-size: 0.9rem;
+            color: var(--text-primary);
+            list-style-type: square;
+            padding-left: 20px;
+        }
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=slice&color=0077B5&height=100&section=footer" width="100%" />
-</p>
+        .job-desc li {
+            margin-bottom: 4px;
+        }
+
+        /* Dashboard Metrics Block */
+        .analytics-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        .card {
+            background-color: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            padding: 20px;
+            text-align: center;
+            transition: border-color 0.3s;
+        }
+
+        .card:hover {
+            border-color: var(--border-color);
+        }
+
+        .card-val {
+            font-size: 1.8rem;
+            font-weight: 700;
+            color: var(--accent-green);
+            margin-bottom: 5px;
+        }
+
+        .card-lbl {
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        /* Animations */
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        @keyframes slideUp {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        @keyframes streaming {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="readme-container">
+        
+        <!-- Animated Title Banner -->
+        <div class="banner">
+            <div class="banner-text">RUCHITA V BHOSALE</div>
+        </div>
+
+        <!-- About Me Section -->
+        <div class="section-title">About Me</div>
+        <p>I am an <span class="highlight">MCA Student</span> and web enthusiast passionate about turning modern development concepts into scalable digital products. I blend multi-disciplinary skills spanning Full Stack Development, Data Operations, and HR Management to build clean applications with optimized user experiences[cite: 1].</p>
+        <p>Currently pursuing my Master's degree at <span class="highlight">MIT World Peace University, Pune</span>[cite: 1].</p>
+
+        <!-- Tech Stack Badges -->
+        <div class="section-title">Tech Stack & Programming</div>
+        <div class="badge-grid">
+            <div class="badge">🌐 HTML5</div>
+            <div class="badge">🎨 CSS3</div>
+            <div class="badge">⚛️ React.js</div>
+            <div class="badge">🟢 Node.js</div>
+            <div class="badge">🚂 Express.js</div>
+            <div class="badge">🍃 MongoDB</div>
+            <div class="badge">🛢️ MySQL</div>
+            <div class="badge">⚙️ C</div>
+            <div class="badge">🛠️ C++</div>
+            <div class="badge">☕ Java</div>
+            <div class="badge">🟨 JavaScript</div>
+            <div class="badge">🐘 PHP</div>
+        </div>
+
+        <!-- Tools & Design Frameworks -->
+        <div class="section-title">Tools & Frameworks</div>
+        <div class="badge-grid">
+            <div class="badge">🐙 Git & GitHub</div>
+            <div class="badge">💻 VS Code</div>
+            <div class="badge">🤖 Android Studio</div>
+            <div class="badge">📐 Figma</div>
+            <div class="badge">💎 Adobe XD</div>
+            <div class="badge">📊 MS Excel</div>
+        </div>
+
+        <!-- Professional Experience Timeline -->
+        <div class="section-title">Experience</div>
+        <div class="timeline">
+            <div class="timeline-item">
+                <div class="job-title">Full Stack Developer Intern</div>
+                <div class="company-date">Skillected | June 2025 - Dec 2025</div>
+                <ul class="job-desc">
+                    <li>Developed responsive web applications utilizing React.js, Node.js, and MongoDB[cite: 1].</li>
+                    <li>Integrated external RESTful APIs and managed structural database schemas[cite: 1].</li>
+                </ul>
+            </div>
+            <div class="timeline-item">
+                <div class="job-title">Associate Executive Intern (Data Analysis)</div>
+                <div class="company-date">MDIndia Healthcare Services | Jan 2026 - Mar 2026</div>
+                <ul class="job-desc">
+                    <li>Analyzed complex healthcare datasets using functional Microsoft Excel engines[cite: 1].</li>
+                    <li>Executed data validations, cross-verifications, and automated administrative reporting tasks[cite: 1].</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Productivity & Performance Analytics Grid -->
+        <div class="section-title">Performance Metrics</div>
+        <div class="analytics-container">
+            <div class="card">
+                <div class="card-val">40+ WPM</div>
+                <div class="card-lbl">Typing Speed</div>
+            </div>
+            <div class="card">
+                <div class="card-val">6+ Tools</div>
+                <div class="card-lbl">Design & UI Engines</div>
+            </div>
+            <div class="card">
+                <div class="card-val">5 Languages</div>
+                <div class="card-lbl">Linguistic Skills</div>
+            </div>
+        </div>
+
+    </div>
+
+</body>
+</html>
